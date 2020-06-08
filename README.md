@@ -6,10 +6,6 @@
 
 Backend desarrollado para la aplicación [Reactflix](https://github.com/verzi/reactflix) utilizando Node.js, Express.js y MongoDB Atlas.
 
-## APIs
-
-- [TMDb](https://developers.themoviedb.org/3/getting-started/introduction)
-
 
 ## Contribución
 
